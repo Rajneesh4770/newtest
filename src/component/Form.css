@@ -1,0 +1,27 @@
+h1{
+    color:blueviolet;
+    text-align: center;
+}
+.container{
+color: blue;
+text-align: center;
+box-sizing: 100px;
+text-size-adjust: 100%;
+font-size: xx-large;
+border-bottom: 5px red;
+}
+body{
+    background-image: url("../../public/newimg.jpg");
+}
+#txt{
+    border:10px;
+    border-style: outset;
+    border-color: lightblue;
+    border-radius: 5px;
+}
+.container1{
+    box-sizing: 50%;
+}
+
+
+
